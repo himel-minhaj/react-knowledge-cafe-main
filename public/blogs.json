@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co.com/TBYyRJb/life-is-journey-exploration-adventure-traveling.jpg",
+    "title": "Exploring the Cosmos",
+    "author": "hemal",
+    "author_img": "https://i.ibb.co.com/qs8nM4P/boy1.png",
+    "posted_date": "2024-09-15",
+    "reading_time": 5,
+    "hashtags": ["#astronomy", "#space", "#science"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co.com/DgXnY3v/inspired-youth.jpg",
+    "title": "The Art of Minimalism",
+    "author": "rabbi",
+    "author_img": "https://i.ibb.co.com/QYdsh6F/boy2.jpg",
+    "posted_date": "2024-10-02",
+    "reading_time": 7,
+    "hashtags": ["#minimalism", "#lifestyle", "#design"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co.com/0jYWj0x/modern-technology-trending-innovation-concept.jpg",
+    "title": "Mastering Python for Data Science",
+    "author": "rakib",
+    "author_img": "https://i.ibb.co.com/7bp0NnX/girl1.jpg",
+    "posted_date": "2024-08-25",
+    "reading_time": 12,
+    "hashtags": ["#python", "#datascience", "#coding"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co.com/s3pXZh5/notebook-coffee-near-camera-keyboard.jpg",
+    "title": "Healthy Habits for a Better Life",
+    "author": "mijan",
+    "author_img": "https://i.ibb.co.com/4Ym8jLz/girl2.jpg",
+    "posted_date": "2024-09-10",
+    "reading_time": 6,
+    "hashtags": ["#health", "#wellness", "#lifestyle"]
+  }
+]
